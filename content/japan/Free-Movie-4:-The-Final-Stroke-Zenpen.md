@@ -12,7 +12,7 @@ keywords:
 Alternative: 'Gekijouban Free! The Final Stroke Zenpen'
 Type: 'Movie'
 Episodes: 'Movie'
-Status: 'Complete'
+Status: 'Finished Airing'
 Aired: 'Sep 17, 2021'
 Premiered: ''
 Studio:
