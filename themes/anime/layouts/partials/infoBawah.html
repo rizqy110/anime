@@ -1,0 +1,28 @@
+<div class="d-g gg-10 gtc-m">
+  <img loading="lazy" class="d-b w-f" src="{{ .Params.image }}" alt="{{ .Title }}">
+  
+  <div class="d-g gg-10 gtc-ib">
+    <div class="d-g gg-5">
+      <h2 class="fs-20"><i class="bbs-d">{{ .Params.Alternative }} English Subtitle</i></h2>
+      <p>Aired : {{ .Params.Aired }}</p>
+      <p>Episodes : {{ .Params.Episodes }}</p>
+      <p>Genres : {{ range $key, $value := $.Params.genre }}<a href="/genre/{{ $value | urlize }}">{{ $value }}</a>{{ if ne $key (sub (len $.Params.genre) 1) }}, {{ else }}.{{ end }}{{ end }}</p>
+      <p>Premiered : {{ .Params.Premiered }}</p>
+      <p>Source : {{ range $key, $value := $.Params.source }}<a href="/source/{{ $value | urlize }}">{{ $value }}</a>{{ if ne $key (sub (len $.Params.source) 1) }}, {{ else }}.{{ end }}{{ end }}</p>
+      <p>Status : {{ .Params.Status }}</p>
+      <p>Studios : {{ range $key, $value := $.Params.studio }}<a href="/studio/{{ $value | urlize }}">{{ $value }}</a>{{ if ne $key (sub (len $.Params.studio) 1) }}, {{ else }}.{{ end }}{{ end }}</p>
+      <p>Type : {{ .Params.Type }}</p>
+    </div>
+    <related>
+      {{ $related := .Site.RegularPages.Related . | first 7 }}
+      {{ with $related }}
+      <div class="d-g gg-5">
+        <h2 class="fs-20"><i class="bbs-d">Other Similar Anime</i></h2>
+        <div class="d-g gg-5">{{ range . }}
+        <p>@ <a href="{{ .RelPermalink }}">{{ .Title }} Eng Sub</a></p>
+        {{ end }}</div>
+      </div>
+      {{ end }}
+    </related>
+  </div>
+</div>

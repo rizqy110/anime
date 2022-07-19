@@ -1,0 +1,21 @@
+{{ define "main" }}
+<h3 class="d-n">Anime List</h3>
+<div class="d-g gg-15 gtc-r">
+  {{ range .Paginator.Pages }}
+  <a id="imgh" class="p-r d-b o-h" href="{{ .Permalink }}">
+    {{ if isset .Params "image" }}
+    <img loading="lazy" class="thumb of-c d-b" src="{{ .Params.image }}" alt="{{ .Title }}">
+    {{ end }}
+    <span class="p-a tr-10 ts-1 fs-11 c-2">
+      {{ .Params.type }}
+    </span>
+    <span class="p-a tl-10 ts-1 fs-11 c-2">
+      {{ .Params.status }}
+    </span>
+    <span class="p-a rbl-10 ts-1 fs-15 c-1">
+      {{ .Title }}
+    </span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

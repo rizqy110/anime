@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h2 class="d-n">English Subbed Anime Update</h2>
+<div class="d-g gg-15 gtc-r">
+{{ range first 24 .Site.RegularPages }}
+<a id="imgh" class="p-r d-b o-h" href="{{ .Permalink }}">
+  {{ if isset .Params "image" }}
+  <img loading="lazy" class="thumb of-c d-b" src="{{ .Params.image }}" alt="{{ .Title }}">
+  {{ end }}
+  <span class="p-a tr-10 ts-1 fs-11 c-2">
+    E {{ .Params.Episodes }}
+  </span>
+  <span class="p-a rbl-10 ts-1 fs-15 c-1">
+    {{ .Title }}
+  </span>
+</a>
+{{ end }}
+</div>
+{{ end }}

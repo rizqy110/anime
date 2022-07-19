@@ -1,0 +1,14 @@
+<div class="bc-3 p-5 pr-15 pl-15">
+  {{ if .IsSection }}
+<div class="jc-c d-f">
+  {{ if .Paginator.HasPrev }}
+  <a class="bc-1 p-5 br-3 mr-5" href="{{ .Paginator.Prev.URL }}">  Prev </a>
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+  <a class="bc-1 p-5 br-3" href="{{ .Paginator.Next.URL }}">  Next </a>
+  {{ end }}
+</div>
+{{ else }}
+<span class="d-f jc-c c-2"><a class="c-2" href="/privacy-policy">Privacy Policy</a></span>
+{{ end }}
+</div>

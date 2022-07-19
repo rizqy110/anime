@@ -1,0 +1,10 @@
+<ul class="d-f gg-5 breadcrumb">
+  <li><b><a href="/">Home</a></b></li>
+  {{ $rellink := "" }}
+  {{ range (split .RelPermalink "/") }}
+  {{ if gt (len . ) 0 -}}
+  {{ $rellink = printf "%s/%s" $rellink . }}
+  <li><a class="c-3" href="{{ $rellink }}">{{ humanize . }}</a></li>
+  {{ end }}
+  {{ end }}
+</ul>

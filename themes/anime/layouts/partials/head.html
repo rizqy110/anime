@@ -1,0 +1,15 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{- if .IsHome -}}Watch Anime With English Subtitle | {{ .Site.Title }}{{- else if .Params.hide_site_title -}}{{ .Page.Title }} - English Subtitle{{- else if .Page.Title -}}{{ .Page.Title }} - English Subtitle | {{ .Site.Title }}{{- else -}}{{ .Site.Title }}{{- end -}}</title>
+  <meta name="google-site-verification" content="S1xytFyizkGyVfevzqSLJzHT8t1wyuQh67YqHTNreRU"/>
+  <meta name="google-site-verification" content="RQKRqAl18j8SF_qXEI0kdfza0nUAORt-hrapKoOJgik"/>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ template "_internal/google_analytics.html" . }}
+  {{ partial "favicon.html" . }}
+  <link rel="stylesheet" href="/css/style.css">
+  {{ if .IsPage }}<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ .Site.Params.Keywords }}{{ end }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>{{ else }}{{ end }}
+</head>

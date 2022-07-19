@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ if eq .Section "ongoing" }}
+<div class="d-g gg-15">
+  <div class="o-h">
+    {{- partial "myPlayer.html" . -}}
+    {{- .Content -}}
+  </div>
+  {{- partial "infoBawah.html" . -}}
+</div>
+{{ else if eq .Section "japan" }}
+<div class="d-g gg-15">
+  <div class="o-h">
+    {{- partial "myPlayer.html" . -}}
+    {{- .Content -}}
+  </div>
+  {{- partial "infoBawah.html" . -}}
+</div>
+{{ else if eq .Section "chinese" }}
+<div class="d-g gg-15">
+  <div class="o-h">
+    {{- partial "myPlayer.html" . -}}
+    {{- .Content -}}
+  </div>
+  {{- partial "infoBawah.html" . -}}
+</div>
+{{ else }}
+{{- .Content -}}
+{{ end }}
+<script src="/js/script.js"></script>
+{{ end }}

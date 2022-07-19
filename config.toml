@@ -1,0 +1,26 @@
+baseURL = 'https://anime-hugonime.pages.dev/'
+languageCode = 'en-us'
+title = 'huGONIme'
+theme = 'anime'
+enableRobotsTXT = 'true'
+googleAnalytics = "G-09SY9M1VEH"
+paginate = 24
+[params]
+  Description = 'Where to Stream Anime Sub English. Watch Donghua Sub English Updated. Chinese Anime Sub Eng, Japanese Anime Sub Eng. Watch and Streaming Anime Subtitle English. Uncensored Anime with English Subtitles. Watch Uncensored ANime.'
+[taxonomies]
+  genre = 'genre'
+  studio = 'studio'
+  source = 'source'
+[markup.goldmark.renderer]
+ unsafe = true
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "genre"
+    weight = 80
+  [[related.indices]]
+    name = "title"
+    weight = 100

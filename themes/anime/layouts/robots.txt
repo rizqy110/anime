@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /genre/
+Disallow: /type/
+Disallow: /premiered/
+Disallow: /studio/
+Disallow: /source/
+Disallow: 404.html
+
+Sitemap: {{ "sitemap.xml" | absLangURL }}
