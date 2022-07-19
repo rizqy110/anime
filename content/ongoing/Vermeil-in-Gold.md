@@ -1,6 +1,6 @@
 ---
 title: 'Vermeil in Gold'
-date: 2022-07-15T00:00:00Z
+date: 2022-07-19T14:32:00Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1787/121353.jpg'
 description: "Royal Ortigia Magic Academy.
@@ -37,5 +37,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KinsouNoVermeil/Kinsou No Vermeil - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KinsouNoVermeil/Kinsou No Vermeil - 02" rel=nofollow">Eps 02</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KinsouNoVermeil/Kinsou No Vermeil - 03" rel=nofollow">Eps 03</a>
 </li>
 </div>

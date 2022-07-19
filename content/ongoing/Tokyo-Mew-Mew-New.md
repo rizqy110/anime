@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo Mew Mew New'
-date: 2022-07-15T12:12:42Z
+date: 2022-07-19T21:02:23Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1878/116704.jpg'
 description: 'New Tokyo Mew Mew anime. Produced in commemoration of the 65th anniversary of the first issue of Nakayoshi.'
@@ -10,7 +10,7 @@ keywords:
 - Tokyo Mew Mew New FREE Watch Anime
 Alternative: 'Tokyo Mew Mew New ♡'
 Type: 'TV'
-Episodes: '02'
+Episodes: '03'
 Status: 'Ongoing'
 Aired: 'Jul 6, 2022 to ?'
 Premiered: 'Summer 2022'
@@ -32,5 +32,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=TokyoMewMewNew/Tokyo Mew Mew New - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=TokyoMewMewNew/Tokyo Mew Mew New - 02" rel=nofollow">Eps 02</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=TokyoMewMewNew/Tokyo Mew Mew New - 03" rel=nofollow">Eps 03</a>
 </li>
 </div>
