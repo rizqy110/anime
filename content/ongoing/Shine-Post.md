@@ -1,6 +1,6 @@
 ---
 title: 'Shine Post'
-date: 2022-07-19T21:08:23Z
+date: 2022-07-19T22:00:46Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1570/118995.jpg'
 description: "The idol unit [TINGS] has big dreams, but only small achievements, and is not very popular. The best manager in the world was supposed to be their savior, but... [I'm not interested in being your manager.] The man who shows up is Naose Hinaki, a man with no motivation. However, he has a special power...? This is a story of you and the girls shining brightly to become [absolute idols.] The best idol entertainment begins here!

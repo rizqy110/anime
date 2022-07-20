@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo Mew Mew New'
-date: 2022-07-19T21:02:23Z
+date: 2022-07-19T21:57:24Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1878/116704.jpg'
 description: 'New Tokyo Mew Mew anime. Produced in commemoration of the 65th anniversary of the first issue of Nakayoshi.'

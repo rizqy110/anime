@@ -1,6 +1,6 @@
 ---
 title: 'Jashin Chan Dropkick X'
-date: 2022-07-19T21:04:23Z
+date: 2022-07-19T21:59:12Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1530/124920.jpg'
 description: 'Third season of Jashin-chan Dropkick.'
