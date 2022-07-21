@@ -1,6 +1,6 @@
 ---
 title: 'Mamahaha No Tsurego Ga Motokano Datta'
-date: 2022-07-15T23:13:33Z
+date: 2022-07-20T23:13:33Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1240/120680.jpg'
 description: "A certain boy and girl in middle school became lovers, flirted with each other, disagreed on trivial things, became more frequently irritated with each other rather than excited... and ended up breaking up at graduation. And so the two of them, Mizuto Irido and Yume Ayai, wound up meeting each other in the most unexpected fashion.
@@ -19,7 +19,7 @@ keywords:
 - English Subbed Mamahaha No Tsurego Ga Motokano Datta
 Alternative: 'My Stepmoms Daughter Is My Ex'
 Type: 'TV'
-Episodes: '02'
+Episodes: '03'
 Status: 'Ongoing'
 Aired: 'Jul 6, 2022 to ?'
 Premiered: 'Summer 2022'
@@ -36,5 +36,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=MamahahaNoTsurego/Mamahaha No Tsurego Ga Motokano Datta - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=MamahahaNoTsurego/Mamahaha No Tsurego Ga Motokano Datta - 02" rel=nofollow">Eps 02</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=MamahahaNoTsurego/Mamahaha No Tsurego Ga Motokano Datta - 03" rel=nofollow">Eps 03</a>
 </li>
 </div>
