@@ -1,6 +1,6 @@
 ---
 title: 'Kumichou Musume to Sewagakari'
-date: 2022-07-16T00:26:15Z
+date: 2022-07-21T22:11:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1359/119960.jpg'
 description: "WHO'S YOUR NANNY?
@@ -15,7 +15,7 @@ keywords:
 - 組長娘と世話係
 Alternative: "Kumichou Musume to Sewagakari - The Yakuza's Guide to Babysitting"
 Type: 'TV'
-Episodes: '02'
+Episodes: '03'
 Status: 'Ongoing'
 Aired: 'Jul 7, 2022 to ?'
 Premiered: 'Summer 2022'
@@ -34,5 +34,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KumichouMusume/Kumichou Musume To Sewagakari - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KumichouMusume/Kumichou Musume To Sewagakari - 02" rel=nofollow">Eps 02</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KumichouMusume/Kumichou Musume To Sewagakari - 03" rel=nofollow">Eps 03</a>
 </li>
 </div>

@@ -1,4 +1,4 @@
-baseURL = 'https://anime-hugonime.pages.dev/'
+baseURL = 'https://anime.hugonime.repl.co/'
 languageCode = 'en-us'
 title = 'huGONIme'
 theme = 'anime'
