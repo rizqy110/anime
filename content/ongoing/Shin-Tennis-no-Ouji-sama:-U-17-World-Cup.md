@@ -29,6 +29,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=ShinTennisNoOujisama/Shin Tennis No Ouji-Sama - U-17 World Cup - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=ShinTennisNoOujisama/Shin Tennis No Ouji-Sama - U-17 World Cup - 02" rel=nofollow">Eps 02</a>
-  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=ShinTennisNoOujisama/Shin Tennis No Ouji-Sama - U-17 World Cup - 03" rel=nofollow">Eps 03</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=ShinTennisNoOujisama/Shin Tennis No Ouji-Sama - U-17 World Cup - 03v2" rel=nofollow">Eps 03</a>
 </li>
 </div>

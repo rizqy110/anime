@@ -1,6 +1,6 @@
 ---
-title: 'Summertime Render'
-date: 2022-07-17T13:48:14Z
+title: 'Summer time Render'
+date: 2022-07-22T13:38:14Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1120/120796.jpg'
 description: "Since the death of his parents, Shinpei Ajiro had lived with the Kofune family and their two daughters—Mio and Ushio. Although he then left his home island to continue his education in Tokyo, Shinpei returns after Ushio tragically drowns during the attempted rescue of a little girl. During the funeral, his best friend informs him about bruises found around Ushio's neck, casting doubt over the cause of her death.
@@ -15,7 +15,7 @@ keywords:
 - Ongoing Anime
 Alternative: 'サマータイムレンダ'
 Type: 'TV'
-Episodes: '14'
+Episodes: '15'
 Status: 'Ongoing'
 Aired: 'Apr 15, 2022 to ?'
 Premiered: 'Spring 2022'
@@ -46,5 +46,6 @@ Genre:
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=SummertimeRendering/Summertime Rendering - 12" rel=nofollow">Eps 12</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=SummertimeRendering/Summertime Rendering - 13" rel=nofollow">Eps 13</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=SummertimeRendering/Summertime Rendering - 14" rel=nofollow">Eps 14</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=SummertimeRendering/Summertime Rendering - 15" rel=nofollow">Eps 15</a>
 </li>
 </div>

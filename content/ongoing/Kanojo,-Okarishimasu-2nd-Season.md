@@ -1,6 +1,6 @@
 ---
 title: 'Kanojo, Okarishimasu 2nd Season'
-date: 2022-07-16T11:36:43Z
+date: 2022-07-22T21:46:43Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1070/124592.jpg'
 description: 'Second season of Kanojo, Okarishimasu.'
@@ -8,7 +8,7 @@ keywords:
 - Kanojo, Okarishimasu 2nd Season - Rent-a-Girlfriend 2nd Season
 Alternative: 'Kanokari, 彼女、お借りします'
 Type: 'TV'
-Episodes: '03'
+Episodes: '04'
 Status: 'Ongoing'
 Aired: 'Jul 2, 2022 to ?'
 Premiered: 'Summer 2022'
@@ -27,5 +27,6 @@ Genre:
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KanojoOkarishimasuSS2/Kanojo, Okarishimasu - 13" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KanojoOkarishimasuSS2/Kanojo, Okarishimasu - 14" rel=nofollow">Eps 02</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KanojoOkarishimasuSS2/Kanojo, Okarishimasu - 15" rel=nofollow">Eps 03</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=KanojoOkarishimasuSS2/Kanojo, Okarishimasu - 16" rel=nofollow">Eps 04</a>
 </li>
 </div>

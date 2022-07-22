@@ -1,6 +1,6 @@
 ---
 title: 'Hoshi No Samidare'
-date: 2022-07-16T12:00:52Z
+date: 2022-07-22T21:50:52Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1693/122837.jpg'
 description: "One day, college student Yuuhi Amamiya is approached by talking lizard Sir Noi Crezant. Crezant immediately launches into a fantastical story: the powerful mage Animus intends to destroy the earth with his biscuit hammer, a huge contraption looming high in earth's orbit. Earth's only hope lies with the princess and her Beast Knights, whose task is to protect the princess and defeat Animus.
@@ -13,7 +13,7 @@ keywords:
 - Eng Sub Hoshi no Samidare
 Alternative: '惑星のさみだれ'
 Type: 'TV'
-Episodes: '02'
+Episodes: '03'
 Status: 'Ongoing'
 Aired: 'Jul 9, 2022 to ?'
 Premiered: 'Summer 2022'
@@ -34,5 +34,6 @@ Genre:
 <li class="d-g gg-5 gtc-e">
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=HoshiNoSamidare/Hoshi No Samidare - 01" rel=nofollow">Eps 01</a>
   <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=HoshiNoSamidare/Hoshi No Samidare - 02" rel=nofollow">Eps 02</a>
+  <a id="allvideo" href="#" data-video="//embed.hugonime.repl.co/videokf.php?id=HoshiNoSamidare/Hoshi No Samidare - 03" rel=nofollow">Eps 03</a>
 </li>
 </div>
